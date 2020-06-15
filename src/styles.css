@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+}
+
+div{
+    margin-left: 05px;
+    box-sizing: content-box;
+    display: inline-block;
+}
+
+span{
+    display: block;
+    margin-top: 15px;
+}
+
+input{
+    display: inline;
+}
+
+.brute{
+    width: 99%;
+    display: block
+}
